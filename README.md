@@ -1,7 +1,7 @@
 ### Hi there! I'm Letícia Mello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 
-- 🔭 I’m currently an Marine Engineer undergraduate
+- 🔭 I’m currently an Marine Engineering undergraduate
 - 🌱 I’m currently learning Typescript and Three.js
 - 💬 Ask me about JavaScript, HTML, CSS, Node.Js
 
