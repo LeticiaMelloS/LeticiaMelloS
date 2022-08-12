@@ -44,6 +44,6 @@
 <br><br>
 ## 😄 &nbsp;Snake
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeticiaMelloS/LeticiaMelloS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
