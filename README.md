@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Marine Engineering undergraduate
 - 🌱 I’m currently learning TypeScript and Three.js
-- 💬 Ask me about JavaScript, HTML, CSS, Node.js
+- 💬 Ask me about Python, JavaScript, HTML, CSS
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex; align-items: center;">
