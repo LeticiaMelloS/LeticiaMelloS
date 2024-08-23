@@ -7,8 +7,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/LeticiaMelloS">
-    <img width="25%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMelloS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMelloS&layout=compact&langs_count=7&theme=dark"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMelloS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMelloS&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
