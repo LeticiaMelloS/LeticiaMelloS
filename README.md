@@ -35,6 +35,3 @@
   <a href="https://www.linkedin.com/in/letícia-de-mello-souza-341251224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 😄 &nbsp;Snake
-
-  ![snake gif](https://github.com/LeticiaMelloS/LeticiaMelloS/blob/output/github-contribution-grid-snake.svg)
