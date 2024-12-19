@@ -1,7 +1,7 @@
 ### Hi there! I'm Letícia Mello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Waving hand gif">
 
-- 🔭 I’m currently a Marine Engineering undergraduate
-- 🌱 I’m currently learning TypeScript and Three.js
+- 🔭 I’m a Marine Engineering
+- 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about Python, JavaScript, HTML, CSS
 
 ## ⚙️ &nbsp;GitHub Analytics
