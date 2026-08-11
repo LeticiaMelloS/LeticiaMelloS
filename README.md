@@ -4,13 +4,6 @@
 - 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about Python, JavaScript, HTML, CSS
 
-## ⚙️ &nbsp;GitHub Analytics
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/LeticiaMelloS">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LeticiaMelloS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMelloS&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
 ## 🛠 &nbsp;Tech Stack
 
